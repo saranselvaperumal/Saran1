@@ -1,0 +1,13 @@
+//UC2
+public class OopsBanner {
+    public static void main(String[] args) {
+        // Line 1: O O P S
+        System.out.println(" * " + " * " + "**" + " **");        // Line 2: O O P S
+        System.out.println("* *" + "* *" + "* *" + "**   ");  // Line 3: O O P S
+        System.out.println("* *" + "* *" + "* *" + "**  "); // Line 4: O O P S (Middle horizontal bar for P and S)
+        System.out.println("* *" + "* *" + "**" + " **");// Line 5: O O P S
+        System.out.println("* *" + "* *" + "* " + "    *"); // Line 6: O O P S
+        System.out.println("* *" + "* *" + "* " + "   *"); // Line 7: O O P S
+        System.out.println(" * " + " * " + "* " + "**");
+    }
+}
